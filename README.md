@@ -1,2 +1,2 @@
 # Variational-AutoEncoder-Passage
-An autoencoder for sentence sentiment analysis
+An autoencoder for sentence sentiment analysis. Work in progress...
